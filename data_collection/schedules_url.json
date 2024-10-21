@@ -1,0 +1,6 @@
+{
+    "departure_code": "FRA",
+    "arrival_code": "JFK",
+    "departure_date" : "2024-05-05",
+    "base_url": "https://api.lufthansa.com/v1/operations/schedules"
+}

@@ -1,0 +1,5 @@
+{
+    "departure_code": "FRA",
+    "departure_date" : "2024-05-10T12:00",
+    "base_url": "https://api.lufthansa.com/v1/operations/customerflightinformation/departures"
+}

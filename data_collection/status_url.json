@@ -1,0 +1,5 @@
+{
+    "arrival_code": "FRA",
+    "date" : "2024-05-05",
+    "base_url": "https://api.lufthansa.com/v1/operations/flightstatus/arrivals"
+}
